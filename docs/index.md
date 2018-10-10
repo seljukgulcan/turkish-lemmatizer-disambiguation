@@ -1,4 +1,4 @@
-## Turkish Lemmatizer Disambiguation - CS578 Course Project
+## Sentence Context based Lemma Disambiguation in Turkish Language - CS578 Course Project
 
 ### Project Description
 
