@@ -6,7 +6,7 @@
 
 ### Blog
 
- - [Morphological Disambiguation of Turkish Text with Perceptron Algorithm](review1.html) 10.10.2018
+ - [Morphological Disambiguation of Turkish Text with Perceptron Algorithm](review1.html) - *10.10.2018*
 
  - Review 2
  
