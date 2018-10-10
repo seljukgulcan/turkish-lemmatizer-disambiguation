@@ -2,7 +2,7 @@
 
 [Main Page](index.html)
 
-10.10.2018
+*10.10.2018*
 
 The paper proposes an algorithm for finding the best fitting morphological parsing of a given word. In languages with complex morphological structure, a word can map to multiple morphemes sequences. Example in the paper:
 
