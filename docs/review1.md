@@ -9,7 +9,7 @@ The paper proposes an algorithm for finding the best fitting morphological parsi
  - alın (forehead)
  - al-ın (take it)
 
-The paper tries to solve this ambiguity. Problem definition can be stated as finding a morphological parse (t) that maximize the probability of the parse given words (w_i) in the sentence. It is argmax_t P(t | w_1, w_2, ..., w_n) in mathematical terms.
+The paper tries to solve this ambiguity. Problem definition can be stated as finding a morphological parse (`t`) that maximize the probability of the parse given words (`w_i`) in the sentence. It is `argmax_t P(t | w_1, w_2, ..., w_n)` in mathematical terms.
 
 The reason we chose this paper as first review is that our problem is similar with authors' and the method in the paper is proposed for Turkish language.
 
