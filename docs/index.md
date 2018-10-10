@@ -7,12 +7,22 @@
 ### Blog
 
  - [Morphological Disambiguation of Turkish Text with Perceptron Algorithm](review1.html) 10.10.2018
+
  - Review 2
+ 
  - Review 3
+ 
  - Review 4
+ 
  - Review 5
+ 
  - Review 6
+ 
  - Review 7
+ 
  - Review 8
+ 
  - Review 9
+ 
  - Review 10
+ 
