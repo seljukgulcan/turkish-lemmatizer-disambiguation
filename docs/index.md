@@ -2,7 +2,7 @@
 
 ### Project Description
 
-  Common lemmatizers work on each word separately without considering other words in the sentence. This approach may give ambiguous results. It is especially true for agglutinative languages like Turkish. For example, word “yakın” may have different morphological roots (“yak” or “yakın”) depending on the usage in the sentence. The goal of the study is to develop a deep learning based model which detects the the correct root of a given word by comparing probability of each candidate root fitting the sentence semantically. The model will be compared with other Turkish lemmatizers having disambiguation mechanisms.
+  Common lemmatizers work on each word separately without considering other words in the sentence. This approach may give ambiguous results. It is especially true for agglutinative languages like Turkish. For example, word “yakın” may have different morphological roots (“yak” or “yakın”) depending on the usage in the sentence. The goal of the study is to develop a deep learning based model which detects the correct root of a given word by comparing probability of each candidate root fitting the sentence semantically. The model will be compared with other Turkish lemmatizers having disambiguation mechanisms.
 
 ### Blog
 
