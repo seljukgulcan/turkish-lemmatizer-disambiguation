@@ -15,7 +15,7 @@
 
  - [Graph-based Lemmatization of Turkish Words by Using Morphological Similarity](review2.html) - *17.10.2018*
  
- - Review 3
+ - [Two-level description of Turkish morphology](review3.html) - *25.10.2018*
  
  - Review 4
  
