@@ -17,7 +17,8 @@
  
  - [Two-level description of Turkish morphology](review3.html) - *25.10.2018*
  
- - Review 4
+ - [Efficient estimation of word representations in vector space](review4.html)
+ - *01.11.2018*
  
  - Review 5
  
