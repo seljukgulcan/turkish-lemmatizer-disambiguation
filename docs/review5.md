@@ -16,19 +16,21 @@ Methods for disambiguation can be divided into rules based methods and statistic
 
 #### Rule Based Methods
 
-This approach uses a set of hand written rules for expression recognition and morphological disambiguation. Oflazer and Kuruoz's (1) study is reported to be first work on the field.
+This approach uses a set of hand written rules for expression recognition and morphological disambiguation. Oflazer and Kuruoz's (1) study is reported to be first work on the field. Authors state that they formed about 250 rules and the method halved the ambiguity a lexical functional grammar parser.
 
 #### Statistical Methods
 
-Below are some machine learning based methods that utilized labeled datasets.
+Below are some machine learning based methods that utilize labeled datasets.
 
 ##### Hidden Markov Models
 
-Hidden Markov Models (HMM) try to find a sequence of morphological parse such that it maximazes posterior probability of the sequence given the sentence. To make calculations easier, they utilize some markov assumptions.
+Hidden Markov Models (HMM) try to find a sequence of morphological parse such that it maximizes posterior probability of the sequence given the sentence. To make calculations easier, they utilize some markov assumptions such as morphological parse of a word depends on only parses of previous two words.
 
 ##### Discriminative Methods
 
 Here, authors mention *Morphological Disambiguation of Turkish Text with Perceptron Algorithm* (2) paper that we have [reviewed](review1.html) earlier. What they propose is basically a perceptron model with 23 hand-crafted features. This work can regarded as one of the first neural network related studies in this field.
+
+Lastly, the chapter mentions popular datasets used in the literature.
 
 ------
 
