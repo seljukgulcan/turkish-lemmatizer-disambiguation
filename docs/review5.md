@@ -4,7 +4,7 @@
 
 *08.11.2018*
 
-This is a chapter of Turkish Natural Language Processing book, It presents a summary studies in the field of morphological disambiguation for Turkish language for past 25 years. Morphological ambiguity is having more than one morphological parse candidates for a word. An example from the paper shows 3 possible morphological interpretations for word 'evin':
+This is a chapter of Turkish Natural Language Processing book, it presents a summary of studies in the field of morphological disambiguation for Turkish language in past 25 years. Morphological ambiguity is defined as having more than one morphological parse candidates for a word. An example from the paper shows 3 possible morphological interpretations for word 'evin':
 
 ev+Noun+A3sg+P2sg+Nom -> (your) house
 
@@ -12,7 +12,7 @@ ev+Noun+A3sg+Pnon+Gen -> of the house
 
 evin+Noun+A3sg+Pnon+Nom -> wheat grain
 
-Methods for disambiguation can be divided into rules based methods and statistic methods.
+Methods for disambiguation can be divided into rule based methods and statistical methods.
 
 #### Rule Based Methods
 
@@ -24,7 +24,7 @@ Below are some machine learning based methods that utilize labeled datasets.
 
 ##### Hidden Markov Models
 
-Hidden Markov Models (HMM) try to find a sequence of morphological parse such that it maximizes posterior probability of the sequence given the sentence. To make calculations easier, they utilize some markov assumptions such as morphological parse of a word depends on only parses of previous two words.
+Hidden Markov Models try to find a sequence of morphological parse such that it maximizes posterior probability of the sequence given the sentence. To make calculations easier, they utilize some markov assumptions such as morphological parse of a word depends on only parses of previous two words.
 
 ##### Discriminative Methods
 
