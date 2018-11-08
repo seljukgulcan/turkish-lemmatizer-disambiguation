@@ -7,7 +7,9 @@
 This is a chapter of Turkish Natural Language Processing book, It presents a summary studies in the field of morphological disambiguation for Turkish language for past 25 years. Morphological ambiguity is having more than one morphological parse candidates for a word. An example from the paper shows 3 possible morphological interpretations for word 'evin':
 
 ev+Noun+A3sg+P2sg+Nom -> (your) house
+
 ev+Noun+A3sg+Pnon+Gen -> of the house
+
 evin+Noun+A3sg+Pnon+Nom -> wheat grain
 
 Methods for disambiguation can be divided into rules based methods and statistic methods.
@@ -30,7 +32,7 @@ Here, authors mention *Morphological Disambiguation of Turkish Text with Percept
 
 ------
 
-### References
+#### References
 
 1 - Oflazer K, Kuruöz İ (1994) Tagging and morphological disambiguation of Turkish text. In:Proceedings of ANLP, Stuttgart, pp 144–149
 
