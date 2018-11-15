@@ -29,6 +29,4 @@ The profile HMM models give an another perspective of us to look at our textual 
 
 #### References
 
-------
-
 Eddy, S. R. (1998). Profile hidden Markov models. _Bioinformatics (Oxford, England)_, 14(9), 755-763.
