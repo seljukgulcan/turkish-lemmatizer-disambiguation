@@ -2,7 +2,7 @@
 
 [Main Page](index.html)
 
-[Go to presentation](presentations/Profile Hidden Markov Models.pdf)
+[Go to presentation](presentations/Profile%20Hidden%20Markov%20Models.pdf)
 
 *15.11.2018*
 
