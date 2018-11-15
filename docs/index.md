@@ -2,8 +2,8 @@
 
 ### People
 
- - Selcuk Gulcan
- - Alim Gokkaya
+ - Selcuk Gulcan ([Presentation](presentations/presentation_selcuk.pdf))
+ - Alim Gokkaya ([Presentation](presentations/Profile%20Hidden%20Markov%20Models.pdf))
 
 ### Project Description
 
@@ -19,7 +19,7 @@
  
  - [Efficient estimation of word representations in vector space](review4.html) - *01.11.2018*
  
- - [Morphological Disambiguation for Turkish](review5.html) - *08.11.2018*
+ - [Morphological Disambiguation for Turkish](review5.html) - [Go to presentation](presentations/presentation_selcuk.pdf)*08.11.2018*
  
  - [Profile Hidden Markov Models](review6.html) - *15.11.2018* [Go to presentation](presentations/Profile%20Hidden%20Markov%20Models.pdf)
 
