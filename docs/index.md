@@ -21,8 +21,8 @@
  
  - [Morphological Disambiguation for Turkish](review5.html) - *08.11.2018*
  
- - Review 6
- 
+ - [Profile Hidden Markov Models](review6.html) - *15.11.2018* [Go to presentation](presentations/Profile%20Hidden%20Markov%20Models.pdf)
+
  - Review 7
  
  - Review 8
