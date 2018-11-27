@@ -25,7 +25,7 @@
 
  - [A Perspective on Word Sense Disambiguation Methods and Their Evaluation](review7.html) - *27.11.2018*
  
- - Review 8
+ - [A Quick Tour of Word Sense Disambiguation, Induction and Related Approaches](review8.html) - *27.11.2018*
  
  - Review 9
  
