@@ -29,5 +29,5 @@
  
  - [Turkish TreeBank](review9.html) - *06.12.2018*
  
- - Review 10
+ - [BRAT: a web-based tool for NLP-assisted text annotation](review10.html) - *13.12.2018*
  
