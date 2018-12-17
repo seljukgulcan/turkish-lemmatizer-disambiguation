@@ -23,7 +23,7 @@
  
  - [Profile Hidden Markov Models](review6.html) - *15.11.2018* [Go to presentation](presentations/Profile%20Hidden%20Markov%20Models.pdf)
 
- - [A Perspective on Word Sense Disambiguation Methods and Their Evaluation](review7.html) - *27.11.2018*
+ - ~~[A Perspective on Word Sense Disambiguation Methods and Their Evaluation](review7.html) - *27.11.2018*~~ (Week 7 review is missing)
  
  - [A Quick Tour of Word Sense Disambiguation, Induction and Related Approaches](review8.html) - *27.11.2018*
  
