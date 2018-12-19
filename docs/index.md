@@ -23,11 +23,11 @@
  
  - [Profile Hidden Markov Models](review6.html) - *15.11.2018* [Go to presentation](presentations/Profile%20Hidden%20Markov%20Models.pdf)
 
- - Review 7
+ - ~~[A Perspective on Word Sense Disambiguation Methods and Their Evaluation](review7.html) - *27.11.2018*~~ (Week 7 review is missing)
  
- - Review 8
+ - [A Quick Tour of Word Sense Disambiguation, Induction and Related Approaches](review8.html) - *27.11.2018*
  
- - Review 9
+ - [Turkish TreeBank](review9.html) - *06.12.2018*
  
- - Review 10
+ - [BRAT: a web-based tool for NLP-assisted text annotation](review10.html) - *13.12.2018*
  
